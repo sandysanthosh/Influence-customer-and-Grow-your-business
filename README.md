@@ -67,3 +67,7 @@ Your customized app reflects your unique business and displays your most importa
         Campaign tips and best practices
         Customized reports and insights
         Marketing and success materials
+
+
+
+<a href="http://starwalt.in/Blogs/index.html">Follow us on Blog</a>
